@@ -1,0 +1,48 @@
+# OrbitCubs CRM
+
+> A focused, free-tier CRM for small teams and solo operators. Contacts, leads,
+> opportunities, accounts, cases, products, quotes, orders, activities, a
+> knowledge base, dashboards, and reports — built client-side on free-tier
+> Firebase (no paid backend functions), packaged for Android with Capacitor,
+> and paired with a companion browser extension for quick capture from any page.
+> Built and maintained by Ahsan Mahmood (https://aoneahsan.com).
+
+## Status
+
+OrbitCubs CRM is in active development (version 0.1.0). There is no public app
+store listing yet; this documentation describes the product and its shipped
+feature areas honestly. Six advanced modules ship today (AI chatbot, predictive
+lead scoring, email automation, calendar sync, churn prediction, push
+notifications); a further set of advanced modules have service scaffolding but
+no UI yet.
+
+## Documentation
+
+- [Introduction](https://orbitcubs-crm-docs.aoneahsan.com/): What OrbitCubs CRM is and who it's for.
+- [Quick Start](https://orbitcubs-crm-docs.aoneahsan.com/getting-started/quick-start): Run the app locally.
+- [Core Concepts](https://orbitcubs-crm-docs.aoneahsan.com/getting-started/core-concepts): Orgs, records, and the data model.
+- [Architecture](https://orbitcubs-crm-docs.aoneahsan.com/architecture): Stack, offline-first design, and zero-cost constraints.
+
+## Features
+
+- [Contacts & Accounts](https://orbitcubs-crm-docs.aoneahsan.com/features/contacts-and-accounts)
+- [Leads & Opportunities](https://orbitcubs-crm-docs.aoneahsan.com/features/leads-and-opportunities)
+- [Cases & Support](https://orbitcubs-crm-docs.aoneahsan.com/features/cases-and-support)
+- [Products, Quotes & Orders](https://orbitcubs-crm-docs.aoneahsan.com/features/products-quotes-orders)
+- [Activities & Knowledge](https://orbitcubs-crm-docs.aoneahsan.com/features/activities-and-knowledge)
+- [Dashboards & Reports](https://orbitcubs-crm-docs.aoneahsan.com/features/dashboards-and-reports)
+- [AI & Automation](https://orbitcubs-crm-docs.aoneahsan.com/features/ai-and-automation)
+- [Email & Collaboration](https://orbitcubs-crm-docs.aoneahsan.com/features/email-and-collaboration)
+- [Browser Extension](https://orbitcubs-crm-docs.aoneahsan.com/features/browser-extension)
+
+## Guides
+
+- [Data Export & Deletion](https://orbitcubs-crm-docs.aoneahsan.com/guides/data-export-and-deletion)
+- [Offline & Mobile](https://orbitcubs-crm-docs.aoneahsan.com/guides/offline-and-mobile)
+
+## Reference
+
+- [FAQ](https://orbitcubs-crm-docs.aoneahsan.com/faq)
+- [Privacy](https://orbitcubs-crm-docs.aoneahsan.com/privacy)
+- [Changelog](https://orbitcubs-crm-docs.aoneahsan.com/changelog)
+- [About the Author](https://orbitcubs-crm-docs.aoneahsan.com/about-the-author)

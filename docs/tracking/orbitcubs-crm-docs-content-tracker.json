@@ -1,0 +1,55 @@
+{
+  "$schema": "orbitcubs-crm-docs-seo-content-tracker",
+  "description": "Per-page rich SEO content enrichment progress for the OrbitCubs CRM docs site. Resumable across sessions. Baseline pages document every shipped feature area; long-tail enrichment batches are appended as they land.",
+  "site": "https://orbitcubs-crm-docs.aoneahsan.com",
+  "createdAt": "2026-06-24",
+  "lastUpdated": "2026-06-24",
+  "expert": "Ahsan Mahmood",
+  "batchSize": 10,
+  "wordsPerPageTarget": "1000-1200",
+  "totalPages": 19,
+  "enrichedPages": 0,
+  "remainingPages": 19,
+  "baselinePages": [
+    "intro",
+    "getting-started/quick-start",
+    "getting-started/core-concepts",
+    "features/contacts-and-accounts",
+    "features/leads-and-opportunities",
+    "features/cases-and-support",
+    "features/products-quotes-orders",
+    "features/activities-and-knowledge",
+    "features/dashboards-and-reports",
+    "features/ai-and-automation",
+    "features/email-and-collaboration",
+    "features/browser-extension",
+    "guides/data-export-and-deletion",
+    "guides/offline-and-mobile",
+    "architecture",
+    "faq",
+    "privacy",
+    "changelog",
+    "about-the-author"
+  ],
+  "batches": [],
+  "nextBatchSuggestion": {
+    "id": "batch-01",
+    "category": "features",
+    "rationale": "Deep-enrich the highest-intent feature pages (contacts, leads/opportunities, ai-and-automation) to the per-page-uniqueness floor (definition-first intro, 3-5 use cases, how-it-works, examples, 5-8 FAQ, tips, author + lastUpdated) once the underlying app modules stabilize.",
+    "verifyBeforeUse": "Confirm the documented feature still matches the real app modules in src/ before enriching."
+  },
+  "workflow": {
+    "perBatch": [
+      "Read this tracker; pick nextBatchSuggestion.",
+      "Verify documented features still match real code in the app repo (orbitcubs-crm).",
+      "Enrich pages to 1000+ unique words with definition-first intro, use cases, how-it-works, examples, FAQ, tips, keywords, author, lastUpdated.",
+      "yarn build must pass (onBrokenLinks: throw).",
+      "Update tracker; ONE commit per batch."
+    ],
+    "qualityGate": [
+      "Honest framing — never claim unshipped features.",
+      "Distinct title + meta description per page.",
+      "No keyword stuffing (Princeton GEO: -10% AI visibility)."
+    ]
+  }
+}

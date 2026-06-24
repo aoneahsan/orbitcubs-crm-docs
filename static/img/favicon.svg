@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle (planet) -->
+  <circle cx="256" cy="256" r="200" fill="#6e56cf"/>
+  <!-- Planet highlight -->
+  <ellipse cx="220" cy="220" rx="120" ry="100" fill="#7c66d4" opacity="0.5"/>
+  <!-- Orbit ring -->
+  <ellipse cx="256" cy="256" rx="250" ry="80" fill="none" stroke="#a78bfa" stroke-width="12" transform="rotate(-25 256 256)" opacity="0.8"/>
+  <!-- Cub ears (left) -->
+  <circle cx="190" cy="140" r="45" fill="#5746af"/>
+  <circle cx="190" cy="140" r="28" fill="#8b5cf6"/>
+  <!-- Cub ears (right) -->
+  <circle cx="322" cy="140" r="45" fill="#5746af"/>
+  <circle cx="322" cy="140" r="28" fill="#8b5cf6"/>
+  <!-- Cub face features - eyes -->
+  <circle cx="220" cy="240" r="16" fill="white"/>
+  <circle cx="292" cy="240" r="16" fill="white"/>
+  <circle cx="224" cy="237" r="8" fill="#1a1523"/>
+  <circle cx="296" cy="237" r="8" fill="#1a1523"/>
+  <!-- Cub nose -->
+  <ellipse cx="256" cy="275" rx="18" ry="13" fill="#1a1523"/>
+  <!-- Cub mouth -->
+  <path d="M240 290 Q256 308 272 290" fill="none" stroke="#1a1523" stroke-width="4" stroke-linecap="round"/>
+  <!-- Star sparkle -->
+  <polygon points="420,100 425,115 440,118 428,128 431,143 420,134 409,143 412,128 400,118 415,115" fill="#fbbf24"/>
+  <polygon points="100,380 103,390 113,392 105,398 107,408 100,402 93,408 95,398 87,392 97,390" fill="#fbbf24"/>
+</svg>

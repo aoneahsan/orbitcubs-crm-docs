@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "orbitcubs-crm-docs"
+  },
+  "targets": {
+    "orbitcubs-crm-docs": {
+      "hosting": {
+        "orbitcubs-crm-docs": ["orbitcubs-crm-docs"]
+      }
+    }
+  },
+  "etags": {}
+}
