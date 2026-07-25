@@ -1,7 +1,7 @@
 {
   "$schema": "orbitcubs-crm-docs-seo-content-tracker",
   "description": "Per-page rich SEO content enrichment progress for the OrbitCubs CRM docs site. Resumable across sessions. Baseline pages document every shipped feature area; long-tail enrichment batches are appended as they land.",
-  "site": "https://orbitcubs-crm-docs.aoneahsan.com",
+  "site": "https://orbitcubs-docs.aoneahsan.com",
   "createdAt": "2026-06-24",
   "lastUpdated": "2026-06-24",
   "expert": "Ahsan Mahmood",

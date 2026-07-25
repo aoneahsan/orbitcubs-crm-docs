@@ -11,7 +11,7 @@ Public Docusaurus documentation site for **OrbitCubs CRM** (product repo:
 | Property | Value |
 |---|---|
 | Repo | `github.com/aoneahsan/orbitcubs-crm-docs` (PUBLIC, remote `o`, branch `main`) |
-| Live (planned) | https://orbitcubs-crm-docs.aoneahsan.com |
+| Live (planned) | https://orbitcubs-docs.aoneahsan.com |
 | Framework | Docusaurus 3 (classic preset) |
 | Dev port | 5900 (serve 5901) |
 | Brand | Violet `#7C3AED` → Orange `#F97316`; OrbitCubs orbit/cub logo |

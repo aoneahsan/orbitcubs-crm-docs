@@ -4,7 +4,7 @@ Public documentation site for **OrbitCubs CRM**, a free-tier, client-side CRM
 (React 19 + Capacitor + Firebase) with a companion browser extension. Built with
 [Docusaurus](https://docusaurus.io/).
 
-- **Live (planned):** https://orbitcubs-crm-docs.aoneahsan.com
+- **Live (planned):** https://orbitcubs-docs.aoneahsan.com
 - **Product repo:** `aoneahsan/orbitcubs-crm` (private)
 - **Author:** Ahsan Mahmood — https://aoneahsan.com
 

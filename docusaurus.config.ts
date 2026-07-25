@@ -10,7 +10,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // store listing yet, so this site intentionally claims no live app/store URL.
 // ---------------------------------------------------------------------------
 
-const SITE_URL = 'https://orbitcubs-crm-docs.aoneahsan.com';
+const SITE_URL = 'https://orbitcubs-docs.aoneahsan.com';
 const REPO_URL = 'https://github.com/aoneahsan/orbitcubs-crm-docs';
 
 const config: Config = {
