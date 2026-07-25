@@ -24,8 +24,7 @@
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve --port 5901",
-    "typecheck": "tsc --noEmit",
-    "firebase:deploy": "yarn build && npx -y firebase-tools@latest deploy --only hosting --project orbitcubs-crm-docs"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@docusaurus/core": "^3.10.1",
